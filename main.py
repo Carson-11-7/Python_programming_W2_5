@@ -21,5 +21,5 @@ print()
 substring = word[start:end:step] #this is a slicing func.
 #  If your start input is 0 it's the first letter of the word.
 #  And for example the word "hello" your end input is 3 so py will take the letter before the third letter "l", which is "e".
-print(f"The word '{word}' sliced to the defined substring is'{substring}'.")
+print(f"The word '{word}' sliced to the defined substring is '{substring}'.")
 print('Program ending.')
